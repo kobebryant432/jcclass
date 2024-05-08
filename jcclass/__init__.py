@@ -1,4 +1,4 @@
-from .jcclass import jc
+from .jc import jc
 from .version import __version__
 
 __author__ = 'Pedro Herrera-Lormendez'
